@@ -5,5 +5,7 @@ public class MyClass {
 		System.out.println("Hello Git");
 		System.out.println("this is 2nd version");
 		System.out.println("My change in master branch");
+		YourClass your=new YourClass();
+		your.sayHello("everyone");
 	}
 }
